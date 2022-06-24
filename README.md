@@ -1,6 +1,6 @@
 # Formulário 01
 
-<img height="300px" src="">
+<img height="300px" src="https://i.imgur.com/kuBu7IS.gif">
 
 Projeto original do Figma: https://www.figma.com/file/TjzxKWLaJOmIbYuIvfRt9m/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio-(Copy)
 
